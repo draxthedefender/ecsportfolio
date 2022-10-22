@@ -1,1 +1,1 @@
-
+<img src="images/welcomejpg"alt="Welcome"/> width="960" height="500">
